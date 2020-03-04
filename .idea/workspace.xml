@@ -35,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583334760165</updated>
-      <workItem from="1583334762635" duration="823000" />
+      <workItem from="1583334762635" duration="1136000" />
     </task>
     <servers />
   </component>
@@ -47,5 +47,9 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1718" y="97" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583334801418" />
+    <state x="2197" y="436" key="VCS.EditChangelistDialog" timestamp="1583335956521">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2197" y="436" key="VCS.EditChangelistDialog/0.0.1366.728/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583335956521" />
   </component>
 </project>
